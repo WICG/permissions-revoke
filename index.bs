@@ -1,0 +1,17 @@
+<pre class='metadata'>
+Title: Relinquishing Permissions
+Shortname: permission-revoke
+Level: 1
+Status: CG-DRAFT
+Group: WICG
+Repository: jyasskin/permission-revoke
+URL: https://jyasskin.github.io/permission-revoke
+Editor: Jeffrey Yasskin, w3cid 72192, Google Inc. https://google.com/
+!Tests: <a href=https://github.com/w3c/web-platform-tests/tree/master/permission-revoke>web-platform-tests permission-revoke/</a> (<a href=https://github.com/w3c/web-platform-tests/labels/permission-revoke>ongoing work</a>)
+
+Abstract: This specification extends the Permissions API to provide a way to relinquish permission to use powerful features.
+</pre>
+
+Introduction {#intro}
+=====================
+
